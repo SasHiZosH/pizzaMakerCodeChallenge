@@ -1,0 +1,35 @@
+{
+  "sizes": [
+    "Pequena", "Média", "Grande"
+  ],
+  "format": [
+    "Tradicional", "Pan"
+  ],
+  "border": {
+    "options": [
+      "Normal", "Recheada"
+    ],
+
+    "filling": [
+      "Catupiry", "Cheddar"
+    ]
+  },
+  "toppings": [
+    "Abobrinha", "Abacaxi", "Azeitona", "Bacon","Banana", "Brócolis", 
+    "Calabresa", "Catupiry", "Champignon", "Cheddar", "Cebola",
+    "Ervilha", "F. Desfiado", "Manjericão", "Milho", "Orégano", "Ovo",
+    "P. Peru", "Presunto", "Rúcula", "Tomate" 
+  ],
+  "suggestions": {
+    "sizes": "Grande",
+    "format": "Tradicional",
+    "border": {
+      "options": "Recheada",
+      "filling": "Catupiry"
+    },
+    "toppings": ["Azeitona", "Calabresa", "Catupiry", "Milho", "Rúcula", "Ovo"],
+    "points": [
+      50
+    ]
+  }
+}
